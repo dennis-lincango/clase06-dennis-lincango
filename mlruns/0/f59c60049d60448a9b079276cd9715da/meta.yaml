@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f59c60049d60448a9b079276cd9715da/artifacts
+end_time: 1715142911698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f59c60049d60448a9b079276cd9715da
+run_name: thundering-vole-660
+run_uuid: f59c60049d60448a9b079276cd9715da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715142910705
+status: 4
+tags: []
+user_id: reroes

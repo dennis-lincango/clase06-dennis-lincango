@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c3050c9f401445718ea0d165d524283e/artifacts
+end_time: 1715142613635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3050c9f401445718ea0d165d524283e
+run_name: polite-quail-846
+run_uuid: c3050c9f401445718ea0d165d524283e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715142612635
+status: 4
+tags: []
+user_id: reroes

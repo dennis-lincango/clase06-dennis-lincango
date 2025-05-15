@@ -1,0 +1,20 @@
+artifact_path: Corrida-01
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 2.12.1
+model_size_bytes: 17557
+model_uuid: 273668e9a873470cb2108cf091b96e4c
+run_id: 262f2ab4c5654c8da088cdec4d9e6a25
+utc_time_created: '2024-05-14 04:44:26.514546'
