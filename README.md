@@ -4,9 +4,9 @@
 
 2. Ejecutar el servidor de mlflow
 
-* opción 1: mlflow server --backend-store-uri sqlite:///mlflow.db  --host 0.0.0.0 
+* opción 1: mlflow server --backend-store-uri sqlite:///mlflow.db  --host 127.0.0.1 
 
-* opción 2: mlflow server --backend-store-uri sqlite:///mlflow.db  --host 0.0.0.0 --port 9090
+* opción 2: mlflow server --backend-store-uri sqlite:///mlflow.db  --host 127.0.0.1 --port 9090
 
 
 Para ejecutar el ejemplo usted debe:
